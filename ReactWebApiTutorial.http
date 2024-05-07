@@ -1,0 +1,6 @@
+@ReactWebApiTutorial_HostAddress = http://localhost:5014
+
+GET {{ReactWebApiTutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
